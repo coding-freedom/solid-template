@@ -1,1 +1,1 @@
-Solid + TS + Tailwind CSS + Prettier + ESLint + Husky
+Vite + Solid + TS + Tailwind CSS + Prettier + ESLint + Vitest + Husky
