@@ -52,7 +52,6 @@ index.html 文件中的 main.ts 改为 main.tsx
 ```
 import { render } from "solid-js/web";
 
-import "./index.css";
 import App from "./App";
 
 const app = document.getElementById("app");
