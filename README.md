@@ -1,4 +1,6 @@
-## 创建项目
+# Solid CSR Template
+
+## 创建 Vanilla 项目
 
 用 Vite 创建一个 Vanilla 项目
 
